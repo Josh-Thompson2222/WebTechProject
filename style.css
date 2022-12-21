@@ -1,0 +1,27 @@
+body{
+background-color:white;
+
+}
+
+h1{
+    text-align: center;
+    background-color:yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    
+}
+
+p{
+    text-align: center;
+    margin-bottom: 5%;
+    image-rendering: crisp-edges;
+    color: gray;
+}
+
+h4{
+    float: left;
+}
+
+
+
+
+
